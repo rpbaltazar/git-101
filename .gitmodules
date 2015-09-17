@@ -1,0 +1,3 @@
+[submodule "git-101.wiki"]
+	path = git-101.wiki
+	url = git@github.com:rpbaltazar/git-101.wiki.git
